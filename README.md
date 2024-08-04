@@ -54,4 +54,13 @@ This dataset contains information about the passengers aboard the Titanic and is
 
 https://www.kaggle.com/competitions/titanic/data
 
+### Group Members:
+
+- Piyush Borse
+- Bhawana Gurumukhdas Thawarani
+- Yuvraj Singh Srinet 
+- Prateek Majumder
+- Neha Roy Choudhury
+- Prajwal Wagh
+
         
