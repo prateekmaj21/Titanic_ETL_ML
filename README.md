@@ -48,7 +48,9 @@ pip install pandas scikit-learn sqlalchemy
    python ml_pipeline.py
    ```
 
-## Documentation
+## Dataset
 
-Detailed documentation for each step of the ETL process and ML pipeline integration is included in the comments within the scripts.
+This dataset contains information about the passengers aboard the Titanic and is commonly used for introductory ML tasks.
+https://www.kaggle.com/competitions/titanic/data
+
         
