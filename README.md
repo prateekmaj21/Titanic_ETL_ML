@@ -7,7 +7,7 @@ This project demonstrates the ETL process and integration with a simple ML pipel
 
 ## Output
 
-![Accuracy]([images/example.png](https://github.com/prateekmaj21/Titanic_ETL_ML/blob/main/Output1.jpg])
+![Accuracy](images/example.png](https://github.com/prateekmaj21/Titanic_ETL_ML/blob/main/Output1.jpg)
 
 ## Files
 
