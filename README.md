@@ -5,6 +5,10 @@
 
 This project demonstrates the ETL process and integration with a simple ML pipeline using the Titanic dataset from Kaggle.
 
+## Output
+
+![Accuracy]([images/example.png](https://github.com/prateekmaj21/Titanic_ETL_ML/blob/main/Output1.jpg))
+
 ## Files
 
 - `data_extraction.py`: Script for data extraction.
